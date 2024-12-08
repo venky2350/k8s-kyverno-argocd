@@ -92,3 +92,6 @@ Additional policy types include PolicyException and (Cluster)CleanupPolicy which
 ### Architecture
 
 ![image](https://user-images.githubusercontent.com/43399466/219931795-dce93e3b-9f78-42ef-ba5e-9aa685252e2f.png)
+
+
+!!Note: Please do practial for hands on experience.
